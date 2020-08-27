@@ -1,5 +1,14 @@
 # hw-01-code-refactor
 
+## Table of Contents
+
+*[Description](#Description)
+*[Screenshot](#Screenshot-of-page)
+*[Screenshot](#Screenshot-of-page)
+*[URL](#URL)
+*[Syntax changes to HTML](#Syntax-changes-made-in-HTML)
+*[Changes to CSS](#Redundant-use-of-classes-in-CSS)
+
 ## Description 
 
 This is the homepage for Horiseon Social Solution Services. I was provided with a completed web page, but the HTML for the page was not ideal as it did not take advantage of semantic elements. I improved the semantics without making any changes to the functionality or appearance of the website.
