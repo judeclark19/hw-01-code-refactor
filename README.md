@@ -16,7 +16,7 @@ I have added comments in the HTML file to show where changes were made.
 * &lt;div class="content"&gt; became **&lt;main&gt;**
 * The &lt;main&gt; part of the page contains three smaller sections which were at first defined by &lt;div&gt;s but I changed them to **&lt;section&gt;**s.
 * The &lt;div&gt; that floats to the right of the page became an **&lt;aside&gt;**, which also contains three &lt;section&gt;s
-* &lt;div class="footer"&gt; became **&lt;footer&gt**;
+* &lt;div class="footer"&gt; became **&lt;footer&gt;**
 * Added **alt descriptions** to every image, improving the page accessibility.
 * **CSS selectors** were also updated accordingly to maintain styling.
 
