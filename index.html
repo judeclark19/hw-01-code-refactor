@@ -26,11 +26,14 @@
         </nav>
     </header>
 
-    <figure class="hero" >
+   <!--Changed div for image into a <figure>. Solution found here! http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html-->
+   <figure class="hero" >
         <span role="img" aria-label="four coworkers collaborating around a meeting table"> </span>
     </figure>
-    <!--solution found here! http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html-->
+    
+    <!-- use <main> element to define the main section of your page -->
     <main>
+        <!-- use <section> element to define the sections within an area of your page -->
         <section id="search-engine-optimization" class="mainStyling">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="An office work desk with a notebook in the center; the notebook is open to a drawing representing the components of successful SEO."/>
             <h2>Search Engine Optimization</h2>
@@ -54,6 +57,7 @@
         </section>
     </main>
 
+    <!-- use <aside> to indicate a section of your website that floats to one side -->
     <aside class="benefits">
         <section class="asideStyling">
             <h3>Lead Generation</h3>
@@ -77,7 +81,9 @@
             </p>
         </section>
     </aside>
+
     <footer>
+        <!-- this h4 was previously an h2, I demoted it -->
         <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
