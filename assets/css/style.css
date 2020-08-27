@@ -134,7 +134,8 @@ main {
     max-width: 150px;
 }
 
-#search-engine-optimization {
+/* The code below originally appeared in this file three times in a row, with each block styling one separate <section>. I have condensed them into one and given the sections a new class of .mainStyling */
+.mainStyling {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,24 +144,7 @@ main {
     color: #ffffff;
 }
 
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* The code below originally appeared in this file three times in a row, with each block styling one separate <section>'s image. I have condensed them into one and applied it to all images within <main>/. */
 main img {
     max-height: 200px;
 }
