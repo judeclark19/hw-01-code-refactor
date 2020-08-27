@@ -4,7 +4,6 @@
 
 * [Description](#Description)
 * [Screenshot](#Screenshot-of-page)
-* [Screenshot](#Screenshot-of-page)
 * [URL](#URL)
 * [Syntax changes to HTML](#Syntax-changes-made-in-HTML)
 * [Changes to CSS](#Redundant-use-of-classes-in-CSS)
